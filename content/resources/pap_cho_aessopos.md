@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eb4ff147-54e3-3d2a-1937-e5da923e5be4
 resourcetype: Document
 title: pap_cho_aessopos.pdf
 uid: 5bfc413a-4d2f-330d-7649-5f66bef1eb9d
