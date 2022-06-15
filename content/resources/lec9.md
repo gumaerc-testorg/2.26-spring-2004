@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten lecture notes. Topics covered in this lecture include adiabatic
   wall temperature, recovery factor, and heat transfer to high speed flow.
-file: /media/courses/2-26-compressible-fluid-dynamics-spring-2004/e7a00a5ab0933acb95b28efca15a5b96_lec9.pdf
+file: /courses/2-26-compressible-fluid-dynamics-spring-2004/e7a00a5ab0933acb95b28efca15a5b96_lec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec9.pdf
 uid: e7a00a5a-b093-3acb-95b2-8efca15a5b96
 ---
+Handwritten lecture notes. Topics covered in this lecture include adiabatic wall temperature, recovery factor, and heat transfer to high speed flow.
+
