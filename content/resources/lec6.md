@@ -6,6 +6,7 @@ file: /courses/2-26-compressible-fluid-dynamics-spring-2004/9bd62fd7db75c179d430
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6.pdf
 uid: 9bd62fd7-db75-c179-d430-d97804bf26fc
 ---
 Handwritten lecture notes. Topics covered in this lecture include Hugoniot relation, normal shocks, moving shocks, weak and strong shocks.
-

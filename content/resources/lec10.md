@@ -6,6 +6,7 @@ file: /courses/2-26-compressible-fluid-dynamics-spring-2004/51cb2d724a3adf6429f9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: 51cb2d72-4a3a-df64-29f9-f45f7cb6fbda
 ---
 Handwritten lecture notes. Topics covered in this lecture include steady 2D supersonic flows, mach waves, Prandtl-Meyer Function, and expansion fans.
-
