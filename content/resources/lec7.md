@@ -3,6 +3,7 @@ content_type: resource
 description: Handwritten lecture notes. Topics covered in this lecture include oblique
   shocks and detonations.
 file: /courses/2-26-compressible-fluid-dynamics-spring-2004/aa71603fb28edabc2c8064790903a996_lec7.pdf
+file_size: 289431
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

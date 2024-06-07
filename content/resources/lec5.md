@@ -3,6 +3,7 @@ content_type: resource
 description: 'Handwritten lecture notes. Topics covered in this lecture include flow
   with heat addition, rayleigh line, and shock waves: conservation relations.'
 file: /courses/2-26-compressible-fluid-dynamics-spring-2004/d8dde6a92906cd1d68f34993494f266a_lec5.pdf
+file_size: 380189
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
