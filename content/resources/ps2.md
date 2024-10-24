@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/2-26-compressible-fluid-dynamics-spring-2004/878902f741c15c3dd7698602ce8525da_ps2.pdf
+file: /ol-ocw-studio-app/courses/2-26-compressible-fluid-dynamics-spring-2004/878902f741c15c3dd7698602ce8525da_ps2.pdf
 file_size: 34601
 file_type: application/pdf
 learning_resource_types:
