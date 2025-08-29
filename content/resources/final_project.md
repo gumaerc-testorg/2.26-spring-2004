@@ -2,7 +2,7 @@
 content_type: resource
 description: This handout contains instructions for the final project as well as suggested
   topics.
-file: /courses/2-26-compressible-fluid-dynamics-spring-2004/66451ba056b30f6a86ad2f4624740a00_final_project.pdf
+file: /ol-ocw-studio-app/courses/2-26-compressible-fluid-dynamics-spring-2004/66451ba056b30f6a86ad2f4624740a00_final_project.pdf
 file_size: 83924
 file_type: application/pdf
 learning_resource_types:
