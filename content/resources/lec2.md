@@ -2,7 +2,7 @@
 content_type: resource
 description: Handwritten lecture notes. Topics covered in this lecture include thermo,
   ideal gases, steady isentropic flow, and stagnation state
-file: /courses/2-26-compressible-fluid-dynamics-spring-2004/4804cfb0efec32572671aa3320220a1e_lec2.pdf
+file: /ol-ocw-studio-app/courses/2-26-compressible-fluid-dynamics-spring-2004/4804cfb0efec32572671aa3320220a1e_lec2.pdf
 file_size: 321325
 file_type: application/pdf
 learning_resource_types:
